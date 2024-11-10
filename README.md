@@ -29,12 +29,9 @@ This project is a Sorting Visualizer implemented using HTML, CSS, and JavaScript
 ![Screenshot](image/capture.PNG)
 
 ## How to Use:
-
-- Clone this repository to your local machine.
-- Open the index.html file in your web browser.
 - Choose a sorting algorithm from the dropdown menu.
 - Adjust the color scheme and sorting speed as desired.
 - Click the "Visualize" button to see the sorting algorithm in action.
-
+  [Click here to visualize](https://rehan2205.github.io/sortingVisualizer/)
 
 "# sortingVisualizer" 
